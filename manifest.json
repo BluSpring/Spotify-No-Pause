@@ -1,0 +1,7 @@
+{
+    "name": "Spotify Anti-Pause",
+    "description": "Disables the Spotify auto-pause in VCs. Temporary solution for while the Powercord Spotify plugin is broken.",
+    "author": "BluSpring",
+    "license": "MIT",
+    "version": "1.0.0"
+}
